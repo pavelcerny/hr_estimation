@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -DNDEBUG   -shared -Wl,-soname,libflandmark_shared.so -o libflandmark_shared.so CMakeFiles/flandmark_shared.dir/flandmark_detector.cpp.o CMakeFiles/flandmark_shared.dir/liblbp.cpp.o -lopencv_core -lopencv_imgproc 

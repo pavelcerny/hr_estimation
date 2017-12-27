@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/noxx/brigada/uricamic-flandmark-5c55724/cpp/libflandmark/flandmark_detector.cpp
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+float.h
+-
+liblbp.h
+/home/noxx/brigada/uricamic-flandmark-5c55724/cpp/libflandmark/liblbp.h
+flandmark_detector.h
+/home/noxx/brigada/uricamic-flandmark-5c55724/cpp/libflandmark/flandmark_detector.h
+
+/home/noxx/brigada/uricamic-flandmark-5c55724/cpp/libflandmark/flandmark_detector.h
+stdint.h
+-
+cv.h
+-
+cvaux.h
+-
+
+/home/noxx/brigada/uricamic-flandmark-5c55724/cpp/libflandmark/liblbp.cpp
+liblbp.h
+/home/noxx/brigada/uricamic-flandmark-5c55724/cpp/libflandmark/liblbp.h
+
+/home/noxx/brigada/uricamic-flandmark-5c55724/cpp/libflandmark/liblbp.h
+stdint.h
+-
+

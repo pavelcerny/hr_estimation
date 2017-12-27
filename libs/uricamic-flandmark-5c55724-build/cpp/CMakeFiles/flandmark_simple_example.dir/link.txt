@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -DNDEBUG    CMakeFiles/flandmark_simple_example.dir/simple_example.cpp.o  -o flandmark_simple_example -rdynamic libflandmark/libflandmark_static.a -lopencv_highgui -lopencv_core -lopencv_imgproc 

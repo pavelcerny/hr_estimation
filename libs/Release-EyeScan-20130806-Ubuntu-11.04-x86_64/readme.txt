@@ -1,0 +1,1 @@
+Here should be located the EyeDea face detector, however it is a commercial software and can not be enclosed to this thesis. Please contact Vojtech Franc <xfrancv@cmp.felk.cvut.cz> for more informations.

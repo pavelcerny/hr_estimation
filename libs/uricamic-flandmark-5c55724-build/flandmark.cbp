@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="flandmark" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;CMake Files\data\;CMake Files\cpp\;CMake Files\cpp\libflandmark\;CMake Files\cpp\mex\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\..\usr\local\share\;CMake Files\..\..\..\..\..\..\usr\local\share\OpenCV\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="flandmark_1">
+         <Option output="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/flandmark_1" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724/cpp/libflandmark" />
+            <Add directory="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724/cpp/mex" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/4.7" />
+            <Add directory="/usr/include/c++/4.7/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/4.7/." />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.7/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.7/include-fixed" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/Makefile&quot;  VERBOSE=1 flandmark_1" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="flandmark_1/fast">
+         <Option output="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/flandmark_1" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724/cpp/libflandmark" />
+            <Add directory="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724/cpp/mex" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/4.7" />
+            <Add directory="/usr/include/c++/4.7/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/4.7/." />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.7/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.7/include-fixed" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/Makefile&quot;  VERBOSE=1 flandmark_1/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="flandmark_2">
+         <Option output="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/flandmark_2" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724/cpp/libflandmark" />
+            <Add directory="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724/cpp/mex" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/4.7" />
+            <Add directory="/usr/include/c++/4.7/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/4.7/." />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.7/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.7/include-fixed" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/Makefile&quot;  VERBOSE=1 flandmark_2" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="flandmark_2/fast">
+         <Option output="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/flandmark_2" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724/cpp/libflandmark" />
+            <Add directory="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724/cpp/mex" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/4.7" />
+            <Add directory="/usr/include/c++/4.7/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/4.7/." />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.7/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.7/include-fixed" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/Makefile&quot;  VERBOSE=1 flandmark_2/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="flandmark_simple_example">
+         <Option output="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/flandmark_simple_example" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724/cpp/libflandmark" />
+            <Add directory="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724/cpp/mex" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/4.7" />
+            <Add directory="/usr/include/c++/4.7/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/4.7/." />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.7/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.7/include-fixed" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/Makefile&quot;  VERBOSE=1 flandmark_simple_example" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="flandmark_simple_example/fast">
+         <Option output="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/flandmark_simple_example" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724/cpp/libflandmark" />
+            <Add directory="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724/cpp/mex" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/4.7" />
+            <Add directory="/usr/include/c++/4.7/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/4.7/." />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.7/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.7/include-fixed" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/Makefile&quot;  VERBOSE=1 flandmark_simple_example/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="flandmark_shared">
+         <Option output="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/libflandmark/libflandmark_shared.so" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/libflandmark" />
+         <Option object_output="./" />
+         <Option type="3" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724/cpp/libflandmark" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/4.7" />
+            <Add directory="/usr/include/c++/4.7/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/4.7/." />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.7/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.7/include-fixed" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/libflandmark/Makefile&quot;  VERBOSE=1 flandmark_shared" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/libflandmark/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/libflandmark/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/libflandmark/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="flandmark_shared/fast">
+         <Option output="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/libflandmark/libflandmark_shared.so" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/libflandmark" />
+         <Option object_output="./" />
+         <Option type="3" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724/cpp/libflandmark" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/4.7" />
+            <Add directory="/usr/include/c++/4.7/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/4.7/." />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.7/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.7/include-fixed" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/libflandmark/Makefile&quot;  VERBOSE=1 flandmark_shared/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/libflandmark/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/libflandmark/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/libflandmark/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="flandmark_static">
+         <Option output="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/libflandmark/libflandmark_static.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/libflandmark" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-DFLANDMARK_STATIC" />
+            <Add directory="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724/cpp/libflandmark" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/4.7" />
+            <Add directory="/usr/include/c++/4.7/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/4.7/." />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.7/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.7/include-fixed" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/libflandmark/Makefile&quot;  VERBOSE=1 flandmark_static" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/libflandmark/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/libflandmark/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/libflandmark/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="flandmark_static/fast">
+         <Option output="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/libflandmark/libflandmark_static.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/libflandmark" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-DFLANDMARK_STATIC" />
+            <Add directory="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724/cpp/libflandmark" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/4.7" />
+            <Add directory="/usr/include/c++/4.7/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/4.7/." />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.7/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.7/include-fixed" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/libflandmark/Makefile&quot;  VERBOSE=1 flandmark_static/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/libflandmark/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/libflandmark/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/libflandmark/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="argmax_mex">
+         <Option working_dir="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/mex" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/mex/Makefile&quot;  VERBOSE=1 argmax_mex" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/mex/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/mex/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/mex/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="flandmark_detector">
+         <Option working_dir="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/mex" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/mex/Makefile&quot;  VERBOSE=1 flandmark_detector" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/mex/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/mex/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/mex/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="flandmark_detector_base">
+         <Option working_dir="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/mex" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/mex/Makefile&quot;  VERBOSE=1 flandmark_detector_base" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/mex/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/mex/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/mex/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="flandmark_load_model">
+         <Option working_dir="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/mex" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/mex/Makefile&quot;  VERBOSE=1 flandmark_load_model" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/mex/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/mex/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/mex/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="getNormalizedFrame">
+         <Option working_dir="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/mex" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/mex/Makefile&quot;  VERBOSE=1 getNormalizedFrame" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/mex/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/mex/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/mex/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="lbp2sparse">
+         <Option working_dir="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/mex" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/mex/Makefile&quot;  VERBOSE=1 lbp2sparse" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/mex/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/mex/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724-build/cpp/mex/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724/cpp/example1.cpp">
+      </Unit>
+      <Unit filename="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724/cpp/example2.cpp">
+      </Unit>
+      <Unit filename="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724/cpp/libflandmark/flandmark_detector.cpp">
+      </Unit>
+      <Unit filename="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724/cpp/libflandmark/liblbp.cpp">
+      </Unit>
+      <Unit filename="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724/cpp/simple_example.cpp">
+      </Unit>
+      <Unit filename="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724/cpp/libflandmark/flandmark_detector.h">
+      </Unit>
+      <Unit filename="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724/cpp/libflandmark/liblbp.h">
+      </Unit>
+      <Unit filename="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724/data/flandmark_model.dat">
+          <Option virtualFolder="CMake Files\data\" />
+      </Unit>
+      <Unit filename="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724/data/face.jpg">
+          <Option virtualFolder="CMake Files\data\" />
+      </Unit>
+      <Unit filename="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724/data/groupphoto.jpg">
+          <Option virtualFolder="CMake Files\data\" />
+      </Unit>
+      <Unit filename="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724/data/seq_bruges04_300frames.avi">
+          <Option virtualFolder="CMake Files\data\" />
+      </Unit>
+      <Unit filename="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724/data/haarcascade_frontalface_alt.xml">
+          <Option virtualFolder="CMake Files\data\" />
+      </Unit>
+      <Unit filename="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724/cpp/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\cpp\" />
+      </Unit>
+      <Unit filename="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724/cpp/libflandmark/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\cpp\libflandmark\" />
+      </Unit>
+      <Unit filename="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724/cpp/mex/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\cpp\mex\" />
+      </Unit>
+      <Unit filename="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724/../../../../../../usr/local/share/OpenCV/OpenCVConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\share\OpenCV\" />
+      </Unit>
+      <Unit filename="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724/../../../../../../usr/local/share/OpenCV/OpenCVConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\share\OpenCV\" />
+      </Unit>
+      <Unit filename="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724/../../../../../../usr/local/share/OpenCV/OpenCVConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\share\OpenCV\" />
+      </Unit>
+      <Unit filename="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724/../../../../../../usr/local/share/OpenCV/OpenCVConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\share\OpenCV\" />
+      </Unit>
+      <Unit filename="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724/../../../../../../usr/local/share/OpenCV/OpenCVConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\share\OpenCV\" />
+      </Unit>
+      <Unit filename="/home/noxx/Dropbox/PavelCerny/libs/uricamic-flandmark-5c55724/../../../../../../usr/local/share/OpenCV/OpenCVConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\share\OpenCV\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>
